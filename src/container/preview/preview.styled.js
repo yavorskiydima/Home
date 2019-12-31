@@ -11,3 +11,11 @@ export const Img = styled.img`
     width: 25vh;
     border-radius: 50%;
 `;
+
+export const IconContainer = styled.div`
+    width: 90px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+`;
